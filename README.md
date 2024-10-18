@@ -57,9 +57,11 @@ To get started with the repository:
 
 Contributions are welcome, especially suggestions for improving the design methodologies or additional VLSI resources. Please follow the standard GitHub pull request workflow for submitting contributions.
 
+<!--
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+-->
 
 ## Contact
 

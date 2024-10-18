@@ -6,7 +6,7 @@ Welcome to the GitHub repository for my VLSI Design course project this semester
 
 The VLSI Design course covers the fundamental principles and techniques used in the design, analysis, and optimization of integrated circuits. Throughout the semester, we focus on topics such as:
 
-- Digital and analog circuit design
+- Digital circuit design
 - CMOS technology and fabrication processes
 - Design methodologies and tools (HDL, CAD, simulation)
 - Power, performance, and area trade-offs
@@ -17,11 +17,10 @@ The VLSI Design course covers the fundamental principles and techniques used in 
 
 The repository is organized as follows:
 
-- **/Assignments/**: Contains individual assignments and solutions covering various topics in VLSI.
+- **/Assignments/**: Contains individual assignments and solutions covering various topics in VLSI, including MATLAB and testbench codes.
 - **/Projects/**: Includes project files, reports, and presentations for the semester-long design project.
-- **/Labs/**: Laboratory exercises and practical tasks performed using tools like Cadence, Synopsys, or other VLSI CAD tools.
 - **/Notes/**: Course notes, references, and resources used for studying and understanding VLSI concepts.
-- **/Simulations/**: Simulation scripts, testbenches, and results for different circuit designs.
+- **/Sourses/**: Source book and class slides which is taught in the class.
 
 ## Tools and Technologies
 
@@ -50,7 +49,7 @@ To get started with the repository:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/vlsi-course-fall2024.git
+   git clone https://github.com/gh-sajad/VLSI.git
    ```
 2. Follow the instructions in the relevant folders to set up the environment and run simulations or experiments.
 
@@ -66,8 +65,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or discussions related to the course or the project, feel free to reach out:
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
+- **Name**: Sajad Ghafouri
+- **Email**: Sajad000gh@gmail.com
 - **University**: Sharif University of Technology
 
 ---
